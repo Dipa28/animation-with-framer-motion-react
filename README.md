@@ -1,6 +1,6 @@
 This project helps to understand the basics of animation in react using Framer Motion.
 
-Link:
+Link: https://animation-with-framer-motion-react.vercel.app/
 
 # React + Vite
 
